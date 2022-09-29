@@ -1,0 +1,26 @@
+/*
+ * As you can see this font comes from fonts.google.com
+ */
+@import url('https://fonts.googleapis.com/css2?family=Barlow&family=Roboto+Slab&display=swap');
+*{
+    font-family: 'Barlow', sans-serif;
+}
+section{
+    width: 60%;
+    padding: 10px;
+    float: left;
+}
+article{
+    margin-top: 10px;
+    padding: 10px;
+}
+aside{
+    width: 36.5%;
+    padding: 10px;
+    float: right;
+}
+.container{
+    padding: 10px;
+    overflow: hidden;
+    display: block;
+}
